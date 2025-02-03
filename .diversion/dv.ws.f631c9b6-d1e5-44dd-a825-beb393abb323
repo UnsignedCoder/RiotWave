@@ -1,0 +1,13 @@
+{
+  "WorkspaceID": "dv.ws.f631c9b6-d1e5-44dd-a825-beb393abb323",
+  "RepoID": "dv.repo.fd6764f5-cfef-4277-8072-47142ae13dd6",
+  "Path": "D:\\Unreal Projects\\RiotWave",
+  "AccountID": "Google_118062227672706789379",
+  "BranchID": "dv.branch.1",
+  "BranchName": "main",
+  "CommitID": "dv.commit.88",
+  "Paused": false,
+  "ShouldDownload": false,
+  "RepoName": "RiotWave",
+  "PauseReason": "failed to pull workspace preferences: All attempts fail:\n#1: failed to execute GET '/repos/{repo_id}/workspaces/{workspace_id}/preferences' (SrcHandlersv2WorkspaceGetPreferences) [305456c0-137e-4084-9419-ff4d83a48810]: do request: Get \"https://api.diversion.dev/v0/repos/dv.repo.fd6764f5-cfef-4277-8072-47142ae13dd6/workspaces/dv.ws.f631c9b6-d1e5-44dd-a825-beb393abb323/preferences\": Post \"https://auth.diversion.dev/oauth2/token\": dial tcp: lookup auth.diversion.dev: no such host\n#2: failed to execute GET '/repos/{repo_id}/workspaces/{workspace_id}/preferences' (SrcHandlersv2WorkspaceGetPreferences) [305456c0-137e-4084-9419-ff4d83a48810]: do request: Get \"https://api.diversion.dev/v0/repos/dv.repo.fd6764f5-cfef-4277-8072-47142ae13dd6/workspaces/dv.ws.f631c9b6-d1e5-44dd-a825-beb393abb323/preferences\": Post \"https://auth.diversion.dev/oauth2/token\": dial tcp: lookup auth.diversion.dev: no such host\n#3: failed to execute GET '/repos/{repo_id}/workspaces/{workspace_id}/preferences' (SrcHandlersv2WorkspaceGetPreferences) [305456c0-137e-4084-9419-ff4d83a48810]: do request: Get \"https://api.diversion.dev/v0/repos/dv.repo.fd6764f5-cfef-4277-8072-47142ae13dd6/workspaces/dv.ws.f631c9b6-d1e5-44dd-a825-beb393abb323/preferences\": Post \"https://auth.diversion.dev/oauth2/token\": dial tcp: lookup auth.diversion.dev: no such host\n#4: failed to execute GET '/repos/{repo_id}/workspaces/{workspace_id}/preferences' (SrcHandlersv2WorkspaceGetPreferences) [305456c0-137e-4084-9419-ff4d83a48810]: do request: Get \"https://api.diversion.dev/v0/repos/dv.repo.fd6764f5-cfef-4277-8072-47142ae13dd6/workspaces/dv.ws.f631c9b6-d1e5-44dd-a825-beb393abb323/preferences\": Post \"https://auth.diversion.dev/oauth2/token\": dial tcp: lookup auth.diversion.dev: no such host"
+}
