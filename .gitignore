@@ -4,6 +4,7 @@ Intermediate/
 DerivedDataCache/
 Build/
 Content/
+.diversion/
 
 *.vsconfig
 RiotWave.sln.DotSettings.user
